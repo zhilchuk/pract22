@@ -1,0 +1,35 @@
+.footer {
+  position: relative;
+  padding-top: 5vw;
+}
+
+.footer__img {
+  position: absolute;
+  width: 100%;
+  z-index: 0;
+}
+
+.footer__p1 {
+  position: absolute;
+  font-size: 3vw;
+  color: white;
+  padding-left: 17vw;
+}
+
+.footer__p2 {
+  position: absolute;
+  font-size: 2vw;
+  color: white;
+  padding-left: 26vw;
+  padding-right: 21vw;
+  padding-top: 7vw;
+  text-align: center;
+}
+
+.footer__button {
+  position: absolute;
+  width: 10vw;
+  z-index: 3;
+  padding-left: 47vw;
+  padding-top: 15vw;
+}/*# sourceMappingURL=footer.css.map */
