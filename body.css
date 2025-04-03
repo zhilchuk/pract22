@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: "ave";
+}
+
+@font-face {
+  font-family: "ave";
+  src: url(abeezee/ABeeZee-Regular.otf);
+}/*# sourceMappingURL=body.css.map */

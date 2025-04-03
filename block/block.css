@@ -1,0 +1,21 @@
+.block__h1 {
+  text-align: center;
+  font-size: 3.3438vw;
+  font-weight: lighter;
+  color: rgb(26, 26, 26);
+  line-height: 0.5;
+}
+
+.block__h1--p {
+  color: rgb(255, 123, 0);
+}
+
+.block__img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: auto;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}/*# sourceMappingURL=block.css.map */

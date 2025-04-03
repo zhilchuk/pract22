@@ -1,0 +1,28 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(5, 4.6875vw);
+    place-items: center;
+    justify-content: center;
+    max-width: 100%;
+    height: 7.8125vw;
+    margin: 0 auto;
+    
+}
+.conteiner__grid{
+    place-items: center;
+    font-size: 1.4583vw;
+    line-height: 0.2;
+}
+.conteiner__grid--lin{
+    font-size: 4.1667vw;
+    font-weight: lighter;
+}
+.container__p--14{
+    color: orangered;
+    font-weight: bold;
+    font-size: 2.0833vw;
+}
+.container__p--number{
+    font-weight: bold;
+    font-size: 2.0833vw;
+}
