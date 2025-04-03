@@ -1,0 +1,26 @@
+.container3-img {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 1vw;
+  width: 80vw;
+  margin-left: 4%;
+}
+
+.container3-img__1 {
+  grid-column-start: span 2;
+  height: 34vw;
+}
+
+.container3-img__2 {
+  grid-row-start: span 2;
+  height: 56vw;
+}
+
+.container3-img__3 {
+  height: 21vw;
+}
+
+.container3-img__4 {
+  height: 21vw;
+}/*# sourceMappingURL=container3-img.css.map */
